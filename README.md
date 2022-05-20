@@ -18,9 +18,6 @@ Prerequisites: None. Anyone who has some interest in learing about computer scie
 
 ### Learning Objectives
 
-
-
-Learning Objectives: 
 Students will be able to :
 1. Students will be able to analyze complex problems such as using a computer to store personal data and provide creative solutions using technolgy to advocate for others who do not know why these problems are problematic. Students provide evidence of security breaches. 
 2. Learn how identity theft is changing the world in terms of new technology and provide possible new technologies to help prevent identity theft.
@@ -38,6 +35,15 @@ Examples of prompts for reports :
 *What new technologies have helped the medical field? Make sure this cites how Computer Science helped.
 *What support systems are available to help with cyberbulying?
 *Social Media: What are the benefits and concerns? 
+
+
+Cyberbullying Resource:
+
+
+Students use this resource to learn more about cyberbullying. https://www.stopbullying.gov/resources/get-help-now
+
+Identity Theft  Resources:
+Students use this resource to learn more about identity theft. https://www.usa.gov/identity-theft
 
 
 Homework:
