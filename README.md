@@ -23,9 +23,8 @@ Describe the learning objectives for the class that relate to social impacts. Co
 Learning Objectives: 
 Students will be able to :
 1. Analyze complex problems and provide creative solutions using computer science by thinking of what is best ethically. 
-2. Designate various solutions and work with a team to execute these solutions that are important to social impacts.
-3. Learn how to use coding to help resolve issues faced in society. 
-4. Write a solution to a problem using adequate coding language. 
+2. Learn about different problems that affect the cyber world including identity theft and privacy concerns. 
+3. Learn about Cyberbullying and ways to find help. 
 
 ### Learning Activities
 
@@ -46,11 +45,11 @@ Homework:
 Homework assignments are set up on Schoology and appear in the calendar for our class. Homework is assigned in class and completed in class. Collaboration is encouraged. 
 Examples of homework: 
 
-Read a Computer Science Article and summarize what the article is talking about. This way we are informed of what is current in the news and advances of Computer Science. 
+Read a Computer Science Article and summarize what the article is talking about. This way we are informed of what is current in the news and advances of Computer Science. What can we learn from this? 
 
 Exams:
 
-Exams are not multiple choice but are projects. Projects all include a rubric, and students get to have a conference before they start their projects. Projects will be conducted in groups of four and done in class. Projects are student-centered based on the interest of students. Each group will be given the same grade and will be changed depending on the tasks assigned. The goal is to have students work with different people in a group setting. 
+Exams are not multiple choice but are projects. Projects all include a rubric, and students get to have a conference before they start their projects. Projects will be conducted in groups of four and done in class. Projects are student-centered based on the interest of students. Each group will be given the same grade and will be changed depending on the tasks assigned. The goal is to have students work with different people in a group setting on topics that are important to the cyber world. 
 
 ### Assessment
 
