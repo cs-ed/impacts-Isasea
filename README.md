@@ -9,6 +9,7 @@ Projects in this course will allow students to collaborate and grow as computer 
 
 
 In this course, we will be focusing on block-based language, starting with Scratch and ending the second semester with Java. This course will focus on teaching concepts that will help students apply whats learned in computer science to their lives.
+Possible curriculum for the upcoming years for this course can be found on this webpage : https://studio.code.org/courses/csd-2021/standards
 
 ## Plan
 
