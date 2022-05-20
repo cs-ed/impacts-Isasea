@@ -16,6 +16,13 @@ In this course, we will be focusing on block-based language, starting with Scrat
 
 Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
 
+Learning Objectives: 
+Students will be able to 
+Analyze complex problems and provide creative solutions using computer science. 
+Designate various solutions and work with a team to execute these solutions. 
+Learn how to use coding to help resolve issues faced in society. 
+Write a solution to a problem using adequate coding language. 
+
 ### Learning Activities
 
 Class Discussions are in class. After the research is complete, we will start class discussions. The class breaks apart into two different groups when class discussions occur.  
