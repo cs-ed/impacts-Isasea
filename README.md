@@ -29,7 +29,7 @@ Students will be able to :
 
 ### Learning Activities
 
-Class Discussions are in class. After the research is complete, we will start class discussions. The class breaks apart into two different groups when class discussions occur.  
+Class Discussions are in class. After the research is complete, we will start class discussions. The class breaks apart into two different groups when class discussions occur.  First discussion will be on Cyberbullying because it can lead to suicide and we need to take care of students first. 
 
 Reports:
 
@@ -54,8 +54,17 @@ Exams are not multiple choice but are projects. Projects all include a rubric, a
 
 ### Assessment
 
-1. Analyze complex problems because of the creation of computers and provide creative solutions. 
+1. Project Presentation of solution to Cyberbullying,Social Presence, Privacy,Identity Theft, or harm of social media.  
  Students thinking as a group will figure out how to address a complex problem. Students problem-solve by brainstorming before starting their group projects. Students will be allowed to come up and speak to me (the teacher) about what types of research and information they have found out. After listening to the possible solution(s), students receive feedback and use Flip Grid to create a catchy info video that gives a glimpse of their solution. FlipGrid is used to showcase the videos in class and get students to see what everyone in the class is working on to solve issues in the real world. One such topic is cyberbullying, that impact all people. 
+ 
+ 2. Written response to Cyberbullying, social media presence, right to  privacy , identity theft, and harm of social media. 
+ Pick one of the following prompts to respond to based on the topics written above.
+       1. What are ways to combat cyberbullying? What is computer etiquette and how does this help cyberbullying. 
+       2. What are the pros and cons of having a social media presence?
+       3. Should technology (cellphones, tablets, computers, and smart watches) be allowed to store information and sell to different companies ? What limitations or privacy should we have? 
+       4. What are some harm that social media can bring to your person? What are ways to avoid having any negative impacts from social media ? 
+ 
+ 
 
 ### Outcomes
 
