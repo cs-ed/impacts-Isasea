@@ -12,7 +12,7 @@ Describe the learning objectives for the class that relate to social impacts. Co
 
 Class Discussions are in class. After the research is complete, we will start class discussions. The class breaks apart into two different groups when class discussions occur.  
 
-#Reports:
+###Reports:
 
 Reports help this class with research about Computer Science. Researching about possible careers if you obtain a bachelor's in computer science will help students learn what possibilities are out there. Reports will also include group reports. 
 Examples of prompts for reports 
