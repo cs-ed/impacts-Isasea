@@ -19,7 +19,7 @@ Describe the learning objectives for the class that relate to social impacts. Co
 
 Learning Objectives: 
 Students will be able to :
-1. Analyze complex problems and provide creative solutions using computer science. 
+1. Analyze complex problems and provide creative solutions using computer science by thinking of what is best ethically. 
 2. Designate various solutions and work with a team to execute these solutions. 
 3. Learn how to use coding to help resolve issues faced in society. 
 4. Write a solution to a problem using adequate coding language. 
