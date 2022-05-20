@@ -8,7 +8,7 @@ This course is for middle school students who would like to learn more about com
 Projects in this course will allow students to collaborate and grow as computer scientists. In Computer Science, it is essential to focus on group work to bring the best in projects.
 
 
-In this course, we will be focusing on block-based language, starting with Scratch and ending the second semester with Java. This course will focus on learning concepts that will help students learn how to apply the concepts learned in computer science in different ways in their lives
+In this course, we will be focusing on block-based language, starting with Scratch and ending the second semester with Java. This course will focus on teaching concepts that will help students apply whats learned in computer science to their lives.
 
 ## Plan
 
