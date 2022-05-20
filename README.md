@@ -1,7 +1,7 @@
 # Impacts on Society
 
 
-Course Title: Introduction to Computer Science  Grades 7th-8th Graders 
+Course Title: Introduction to Computer Science  Grades 7th-8th Graders .
 
 This course is for middle school students who would like to learn more about computer science by taking an introductory course. The course aims to help students understand what computer science can do to benefit society. Students will learn how to collaborate and learn problem-solving skills by completing projects in class. The curriculum for this course is on problem-based learning in computer science. 
 
