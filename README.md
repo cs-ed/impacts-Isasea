@@ -18,4 +18,4 @@ Describe how you plan to assess the learning objectives described above.
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society. 
+To facilitate diversity, equity, and inclusion in computer science, as an educator, I must provide an opportunity to learn about the history of computer science. History is an essential component of this course to understand what we must change as a society by using computer science as a tool. First, having female role models in the field is essential for students who might think that this field is essentially only for males. Having a class like this introductory class will help students feel welcome.
