@@ -62,3 +62,6 @@ To facilitate diversity, equity, and inclusion in computer science, as an educat
 
 Technology will be taking over the world in a couple of years, which means that education should be accessible and be a safe space. To make education accessible to others completing work in school is essential for my students. Having time to complete classwork is vital to fostering a community in class that helps one another. Additionally, having opportunities to get students to enjoy their experience is very important to promote Computer Science as possible interest in college. I believe that promoting group work in this introductory course will help students who need to feel they have the support and broaden the students included in these types of classes. Hopefull with this cyber bullying can be something we do not encounter in our course and we support one another.
 
+
+
+###  Citations
