@@ -11,6 +11,9 @@ Projects in this course will allow students to collaborate and grow as computer 
 In this course, we will be focusing on block-based language, starting with Scratch and ending the second semester with Java. This course will focus on teaching concepts that will help students apply whats learned in computer science to their lives.
 Possible curriculum for the upcoming years for this course can be found on this webpage : https://studio.code.org/courses/csd-2021/standards
 
+Prerequisites: None. Anyone who has some interest in learing about computer science is free to add this course. 
+
+
 ## Plan
 
 ### Learning Objectives
@@ -20,7 +23,7 @@ Describe the learning objectives for the class that relate to social impacts. Co
 Learning Objectives: 
 Students will be able to :
 1. Analyze complex problems and provide creative solutions using computer science by thinking of what is best ethically. 
-2. Designate various solutions and work with a team to execute these solutions. 
+2. Designate various solutions and work with a team to execute these solutions that are important to social impacts.
 3. Learn how to use coding to help resolve issues faced in society. 
 4. Write a solution to a problem using adequate coding language. 
 
