@@ -1,6 +1,14 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+
+
+
+This course is for middle school students who would like to learn more about computer science by taking an introductory course. The course aims to help students understand what computer science can do to benefit society. Students will learn how to collaborate and learn problem-solving skills by completing projects in class. The curriculum for this course is on problem-based learning in computer science. 
+
+Projects in this course will allow students to collaborate and grow as computer scientists. In Computer Science, it is essential to focus on group work to bring the best in projects.
+
+
+In this course, we will be focusing on block-based language, starting with Scratch and ending the second semester with Java. This course will focus on learning concepts that will help students learn how to apply the concepts learned in computer science in different ways in their lives
 
 ## Plan
 
