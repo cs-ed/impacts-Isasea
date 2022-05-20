@@ -12,18 +12,22 @@ Describe the learning objectives for the class that relate to social impacts. Co
 
 Class Discussions are in class. After the research is complete, we will start class discussions. The class breaks apart into two different groups when class discussions occur.  
 
-###Reports:
+Reports:
 
 Reports help this class with research about Computer Science. Researching about possible careers if you obtain a bachelor's in computer science will help students learn what possibilities are out there. Reports will also include group reports. 
 Examples of prompts for reports 
 What careers are possible with Computer Science? 
 What new technologies have helped the medical field? Make sure this cites how Computer Science helped. 
+
 Homework:
+
 Homework assignments are set up on Schoology and appear in the calendar for our class. Homework is assigned in class and completed in class. Collaboration is encouraged. 
 Examples of homework: 
 Adding in binary.
 Read a Computer Science Article and summarize what the article is talking about. 
+
 Exams:
+
 Exams are not multiple choice but are projects. Projects all include a rubric, and students get to have a conference before they start their projects. Projects will be conducted in groups of four and done in class. Projects are student-centered based on the interest of students. Each group will be given the same grade and will be changed depending on the tasks assigned. The goal is to have students work with different people in a group setting. 
 
 ### Assessment
