@@ -34,16 +34,19 @@ Class Discussions are in class. After the research is complete, we will start cl
 Reports:
 
 Reports help this class with research about Computer Science. Researching about possible careers if you obtain a bachelor's in computer science will help students learn what possibilities are out there. Reports will also include group reports. 
-Examples of prompts for reports 
-What careers are possible with Computer Science? 
-What new technologies have helped the medical field? Make sure this cites how Computer Science helped. 
+Examples of prompts for reports :
+*What careers are possible with Computer Science? 
+*What new technologies have helped the medical field? Make sure this cites how Computer Science helped.
+*What support systems are available to help with cyberbulying?
+*Social Media: What are the benefits and concerns? 
+
 
 Homework:
 
 Homework assignments are set up on Schoology and appear in the calendar for our class. Homework is assigned in class and completed in class. Collaboration is encouraged. 
 Examples of homework: 
-Adding in binary.
-Read a Computer Science Article and summarize what the article is talking about. 
+
+Read a Computer Science Article and summarize what the article is talking about. This way we are informed of what is current in the news and advances of Computer Science. 
 
 Exams:
 
