@@ -18,13 +18,13 @@ Prerequisites: None. Anyone who has some interest in learing about computer scie
 
 ### Learning Objectives
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
+
 
 Learning Objectives: 
 Students will be able to :
-1. Analyze complex problems and provide creative solutions using computer science by thinking of what is best ethically. 
-2. Learn about different problems that affect the cyber world including identity theft and privacy concerns. 
-3. Learn about Cyberbullying and ways to find help. 
+1. Students will be able to analyze complex problems such as using a computer to store personal data and provide creative solutions using technolgy to advocate for others who do not know why these problems are problematic. Students provide evidence of security breaches. 
+2. Learn how identity theft is changing the world in terms of new technology and provide possible new technologies to help prevent identity theft.
+3. Learn about Cyberbullying and ways to find help and ultimately stop this. 
 
 ### Learning Activities
 
