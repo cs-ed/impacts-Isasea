@@ -51,7 +51,8 @@ Exams are not multiple choice but are projects. Projects all include a rubric, a
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
+1. Analyze complex problems because of the creation of computers and provide creative solutions. 
+ Students thinking as a group will figure out how to address a complex problem. Students problem-solve by brainstorming before starting their group projects. Students will be allowed to come up and speak to me (the teacher) about what types of research and information they have found out. After listening to the possible solution(s), students receive feedback and use Flip Grid to create a catchy info video that gives a glimpse of their solution. FlipGrid is used to showcase the videos in class and get students to see what everyone in the class is working on to solve issues in the real world. One such topic is cyberbullying, that impact all people. 
 
 ### Outcomes
 
